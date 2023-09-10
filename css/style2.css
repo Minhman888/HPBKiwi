@@ -4,11 +4,8 @@
     padding: 0;
 }
 body{
-    margin: 0;
-    padding: 0;
     background-image: linear-gradient(80deg, rgba(5, 124, 172), rgba(199, 10, 114));
     min-width: 100vh;
-    overflow: hidden;
 }
 .container{
     width: 50vmin;
