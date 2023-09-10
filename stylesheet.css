@@ -1264,7 +1264,7 @@ audio {
 	position: fixed;
 	top:100%;
 	opacity: 0.5;
-	z-index: 9999;
+	z-index: -1;
 }
 .control-panel {
 	position: fixed;
@@ -1294,12 +1294,12 @@ audio {
 
 .btn-primary {
         border-color: #466baf;
-        padding: 10px;
+        padding: 12px;
         text-transform: uppercase;
         font-family: 'Signika', sans-serif;
-        font-weight: 700;
+        font-weight: 900;
         color: #fff;
-        background-color: #466baf;
+        background-color: #ab39f7;
 }
     .btn-primary:hover,
     .btn-primary:focus,
@@ -1307,8 +1307,8 @@ audio {
     .btn-primary.active,
     .open .dropdown-toggle.btn-primary {
         border-color: #fff;
-        color: #fff;
-        background-color: #466baf;
+        color: #6e15d3;
+        background-color: #9eb8e7;
     }
 
 
